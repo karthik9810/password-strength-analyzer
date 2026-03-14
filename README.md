@@ -21,6 +21,8 @@ Click the address bar of the folder
 Type: cmd
 Press Enter
 
+python password_analyzer.py
+
 ### Step 4 — Run the tool
 python password_analyzer.py
 
